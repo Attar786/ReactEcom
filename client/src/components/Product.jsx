@@ -5,7 +5,7 @@ import Rating from "./Rating";
 const Product = ({ product }) => {
 return (
     <Card  className="my-3 p-3 rounded ">
-    <Link to ={`./Product.jsx/${product._id}`}>
+    <Link to ={`./product/${product._id}`}>
     <Card.Img src={product.image} variant= "top" />
     </Link>
 <Card.Body>
@@ -26,4 +26,4 @@ return (
     )
 }
 
-export default Product
+export default Product;
