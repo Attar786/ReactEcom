@@ -1,0 +1,15 @@
+{
+  "name": "reactecom",
+  "version": "2.0.0",
+  "description": "Ecomress Web App With MERN Stack",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Atta ur Rehman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
