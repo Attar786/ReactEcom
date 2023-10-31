@@ -9,13 +9,11 @@ const ProductDetailsScreen = () => {
   console.log(productId);
 const product= products.find((p) => p._id === productId );
 console.log(product);
-
-
-
+ 
 return (
 
 <>
-<h1>ali</h1>
+
  <Link className="btn btn-light my-3" to="/">
   Back
 </Link>
