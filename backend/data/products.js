@@ -1,6 +1,6 @@
 const products = [
     {
-      _id: "9",
+      // _id: "9",
       name: 'Airpods Wireless Bluetooth Headphones',
       image: '/images/airpods.jpg',
       description: 'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
@@ -12,7 +12,7 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: "1",
+      // _id: "1",
       name: 'iPhone 13 Pro 256GB Memory',
       image: '/images/phone.jpg',
       description:
@@ -25,7 +25,7 @@ const products = [
       numReviews: 8,
     },
     {
-      _id: "4",
+      // _id: "4",
       name: 'Cannon EOS 80D DSLR Camera',
       image: '/images/camera.jpg',
       description:
@@ -39,7 +39,7 @@ const products = [
     },
     {
   
-      _id: "5",
+      // _id: "5",
       name: 'Brand New Sony Playstation 5',
       image: '/images/playstation.jpg',
       description:
@@ -52,7 +52,7 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: "6",
+      // _id: "6",
       name: 'Logitech G-Series Gaming Mouse',
       image: '/images/mouse.jpg',
       description:
@@ -65,7 +65,7 @@ const products = [
       numReviews: 10,
     },
     {
-      _id: "7",
+      // _id: "7",
       name: 'Amazon Echo Dot 3rd Generation',
       image: '/images/alexa.jpg',
       description:
